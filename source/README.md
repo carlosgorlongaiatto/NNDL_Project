@@ -1,14 +1,17 @@
-[extract_train.ipynb](./extract_train.ipynb) \
-Notebook used to unzip the file containing the data.
+[extract_train.ipynb](./utils.py) \
+Script containing utility functions.
 
-[create_patches.ipynb](./create_patches.ipynb) \
-Notebook used to create the patches.
-
-[land_cover_classification.ipynb](./land_cover_classification.ipynb) \
+[create_patches.ipynb](./music_genre_classification.ipynb) \
 Notebook containing the main work.
 
 [data](./data) \
 Folder used to store the data and the metadata.
+
+[cleaning](./cleaning) \
+Folder used to store cleaned metadata.
+
+[normalization](./normalization) \
+Folder used to store mean and standard deviation of data.
 
 [checkpoints](./checkpoints) \
 Folder used to store PyTorch checkpoints.
