@@ -8,7 +8,7 @@
 ## Abstract:
 
 <p float="left">
-  <img src="/resources/loss.png" width="100" />
-  <img src="/resources/accuracy.png" width="100" /> 
-  <img src="/resources/F1_score.png" width="100" />
+  <img src="/resources/images/loss.png" width="100" />
+  <img src="/resources/images/accuracy.png" width="100" /> 
+  <img src="/resources/images/F1_score.png" width="100" />
 </p>
