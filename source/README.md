@@ -1,7 +1,7 @@
-[extract_train.ipynb](./utils.py) \
+[utils.py](./utils.py) \
 Script containing utility functions.
 
-[create_patches.ipynb](./music_genre_classification.ipynb) \
+[music_genre_classification.ipynb](./music_genre_classification.ipynb) \
 Notebook containing the main work.
 
 [data](./data) \
